@@ -9,7 +9,7 @@
 
 https://user-images.githubusercontent.com/82578024/199862710-1a61c3ec-231f-46a1-a337-b8643b2ccf14.mp4
 
-![image](https://user-images.githubusercontent.com/82578024/199862970-3f601412-50fe-4d9d-9161-9d8b4521abf2.png
+![image](https://user-images.githubusercontent.com/82578024/199875878-17f86043-1297-4e80-a251-2f326b37494f.png)
 
 ![image](https://user-images.githubusercontent.com/82578024/199863452-83576840-7ad5-430e-ab64-28cbd41e5714.png)
 
@@ -75,5 +75,5 @@ Giả sử tới đây mệt, nghỉ làm thì tắt luôn, nó tự lưu và go
 
 https://user-images.githubusercontent.com/82578024/199871707-ea13b5fa-931a-42d2-849b-dc236759b095.mp4
 
-Ta sao chép được link chia sẽ của Web như sau: https://sites.google.com/view/kichhoatofficemoiphienban/trang-ch%E1%BB%A7, ta chia sẻ cho mọi người thì bỏ phần phía sau cho hoảnh tráng: https://sites.google.com/view/kichhoatofficemoiphienban
+**Ta sao chép được link chia sẽ của Web như sau: https://sites.google.com/view/kichhoatofficemoiphienban/trang-ch%E1%BB%A7, ta chia sẻ cho mọi người thì bỏ phần phía sau cho hoành tráng: https://sites.google.com/view/kichhoatofficemoiphienban**
 
