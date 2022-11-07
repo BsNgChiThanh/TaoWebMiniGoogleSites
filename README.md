@@ -75,7 +75,9 @@ Giả sử tới đây mệt, nghỉ làm thì tắt luôn, nó tự lưu và go
 
 https://user-images.githubusercontent.com/82578024/199871707-ea13b5fa-931a-42d2-849b-dc236759b095.mp4
 
-**Ta sao chép được link chia sẽ của Web như sau: https://sites.google.com/view/activeofficemoinhat/trang-ch%E1%BB%A7, ta chia sẻ cho mọi người thì bỏ phần phía sau, để người được chia sẽ cảm thấy hoành tráng: https://sites.google.com/view/activeofficemoinhat**
+**Ta sao chép được link chia sẽ của Web như sau: https://sites.google.com/view/bsnguyenchithanh/trang-ch%E1%BB%A7, ta chia sẻ cho mọi người thì bỏ phần phía sau, để người được chia sẽ cảm thấy hoành tráng: https://sites.google.com/view/bsnguyenchithanh khi mở lên ngay trang chủ**
+
+**Ta chia sẽ muốn người mở lên nay một tab (trang) mà ta muốn chia sẻ thì ta vô ngay trang đó copy link https://sites.google.com/view/bsnguyenchithanh/l%E1%BB%8Bch-ph%C3%B2ng-kh%C3%A1m khi mở lên trang lịch phòng khám**
 
 ## CHÈN ẢNH ĐẠI DIỆN VÀ ĐẶT TÊN TRANG WEB ##
 
