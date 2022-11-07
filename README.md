@@ -77,3 +77,7 @@ https://user-images.githubusercontent.com/82578024/199871707-ea13b5fa-931a-42d2-
 
 **Ta sao chép được link chia sẽ của Web như sau: https://sites.google.com/view/activeofficemoinhat/trang-ch%E1%BB%A7, ta chia sẻ cho mọi người thì bỏ phần phía sau, để người được chia sẽ cảm thấy hoành tráng: https://sites.google.com/view/activeofficemoinhat**
 
+## CHÈN ẢNH ĐẠI DIỆN VÀ ĐẶT TÊN TRANG WEB ##
+
+https://user-images.githubusercontent.com/82578024/200266105-592dffb7-5935-4743-9681-b54d25102f7e.mp4
+
